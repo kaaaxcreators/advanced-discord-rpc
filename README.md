@@ -7,7 +7,7 @@
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 ---
 ## How to Install WINDOWS
-### First of all you need to <a href="https://github.com/kaaax0815/advanced-discord-rpc/releases/latest" target="_blank">DOWNLOAD</a> the right program (latest is recommended)
+### First of all you need to <a href="https://github.com/kaaax0815/advanced-discord-rpc/releases/tag/v2-gui-cli-onefile" target="_blank">DOWNLOAD</a> the right program <s>latest is recommended</s>
 ### Open EXE or PY
 #### depends what you have downloaded
 ### Change CONFIG.JSON to your client id
