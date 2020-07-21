@@ -12,7 +12,7 @@
 #### depends what you have downloaded
 ### Change CONFIG.JSON to your client id
 #### optional: pictures
-### IF needed: download requirements.txt
+### IF needed: download [requirements.txt]
 ---
 ## Features
 ### GUI
@@ -21,3 +21,5 @@
 ![](https://i.imgur.com/G6IpflU.png)
 ### Automatic JSON Creation / Easy to change Settings
 ![](https://i.imgur.com/qdJdq3a.png)
+
+[requirements.txt]: https://github.com/kaaax0815/advanced-discord-rpc/releases/tag/v1-r
