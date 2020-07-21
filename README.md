@@ -1,2 +1,2 @@
-# advanced-discord-rpc
-Advanced Discord RPC written in Python
+# ADVANCED DISCORD RPC
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
