@@ -4,6 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/kaaax0815/advanced-discord-rpc)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/pypresence.svg)](https://pypi.python.org/pypi/pypresence/)
 ![GitHub Release Date](https://img.shields.io/github/release-date/kaaax0815/advanced-discord-rpc)
+[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 ---
 ## How to Install WINDOWS
 <a href="https://github.com/kaaax0815/advanced-discord-rpc/releases" target="_blank">DOWNLOAD</a>
