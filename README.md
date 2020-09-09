@@ -16,6 +16,7 @@
 ---
 ## Features
 ### GUI
+#### You can close the gui if you dont want to edit the presence on runtime, but the presence stays on, until you close the console
 ![](https://i.imgur.com/qfj8CPE.png)
 ### CLI
 ![](https://i.imgur.com/G6IpflU.png)
