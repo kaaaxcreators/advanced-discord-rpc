@@ -1,0 +1,12 @@
+{
+    "CLIENT_ID": "734441458521604247",
+    "State": "angularjs",
+    "Details": "web design",
+    "_comment1": "Make sure you are using the same name that you used when uploading the image",
+    "LImage": "img_large",
+    "LTooltip": "hurenbock32",
+    "SImage": "img_small",
+    "STooltip": "kc-logo",
+    "_comment2": "Displays connection infos",
+    "Debug": "False"
+}
